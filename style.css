@@ -1,0 +1,27 @@
+body {
+  background-color: cadetblue;
+}
+
+.img-teste {
+  height: 300px;
+}
+
+.card-teste {
+  border-radius: 20px;
+  padding: 20px;
+  background-color: white;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+footer {
+  background-color: rgb(56, 100, 102);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  line-height: 3;
+  color: white;
+}
